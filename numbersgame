@@ -1,0 +1,15 @@
+##When I run this I want it congratulate me at the end but it just ends the game when I get it right!
+
+import random
+n = random.randrange(1,10)
+##print("If you want to cheat the number is:", n)
+guess = int(input("Guess a number between 1 and 10: "))
+while n!= guess:
+    if guess < n:
+        print("It's higher!")
+        guess = int(input("Enter number again: "))
+    elif guess > n:
+        print("It's lower")
+        guess = int(input("Enter number again: "))
+    else:
+        print("Thats right! It was ", n, " thanks for playing!")
