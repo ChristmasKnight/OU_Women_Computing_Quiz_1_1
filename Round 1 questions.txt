@@ -1,0 +1,15 @@
+1.	For what was Python named? 
+
+2.	What does SQL stand for? 
+
+3.	Countess Augusta Ada King (nee Byron) is also commonly known by what name? 
+
+4.	Which of these is not a programming language: 
+a.	Java
+b.	Ruby
+c.	HTML
+d.	Emerald
+
+5.	True or false, ENIAC, the first general-purpose programmable computer weighed over 25 tonnes
+
+6.	True or false, in December 2023 over 50% of emails are spam 
