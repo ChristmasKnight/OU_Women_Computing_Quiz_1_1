@@ -2,7 +2,7 @@
 Welcome to Section 1 1 of the OU women in computing quiz
 
 
-To use thise please create a branch (see the guide) and don't change main since everyone can see that!
+To use this please create a branch (see the guide) and don't change main since everyone can see that!
 
 
 Both sections are composed of three rounds
