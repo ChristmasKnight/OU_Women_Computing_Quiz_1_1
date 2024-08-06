@@ -1,0 +1,8 @@
+/*I want to see what Christina Berglund has ordered from us but something is going wrong!*/
+
+Select * FROM Customers 
+LEFT JOIN Orders
+ON Customers.CustomerID=Orders.CustomerID
+WHERE CustomerID=5;
+
+/*Please note you MUST use the IDE provided since it has the tables*/
